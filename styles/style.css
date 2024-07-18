@@ -349,7 +349,6 @@
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  margin-bottom: 100px;
   position: relative;
 }
 
@@ -396,15 +395,11 @@
   column-gap: 10px;
 }
 
-.footer__list-wraper {
-  margin-bottom: 0;
-}
-
 .footer__social-icon {
   height: 16px;
   width: 16px;
 }
 
 .footer__copyright {
-  margin: 0px 0px 0px 0px;
+  margin: 84px 0px 0px 0px;
 }
