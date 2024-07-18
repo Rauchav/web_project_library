@@ -348,13 +348,15 @@
 .footer__columns {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: flex-end;
   margin-bottom: 100px;
+  position: relative;
 }
 
-.footer__column-wraper {
-  display: flex;
-  flex-direction: row;
+.footer___column_logo {
+  position: absolute;
+  top: 0px;
+  left: 0px;
 }
 
 .footer__column_content_hours {
