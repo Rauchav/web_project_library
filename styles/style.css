@@ -360,11 +360,11 @@
 }
 
 .footer__column_content_hours {
-  margin-right: 80px;
+  margin: 0px 80px 0px 0px;
 }
 
 .footer__column_content_social {
-  margin: 0;
+  margin: 0px 0px 0px 0px;
 }
 
 .footer__logo {
@@ -401,11 +401,10 @@
 }
 
 .footer__social-icon {
-  height: 30px;
-  width: 30px;
+  height: 16px;
+  width: 16px;
 }
 
 .footer__copyright {
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin: 0px 0px 0px 0px;
 }
