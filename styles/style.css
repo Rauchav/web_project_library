@@ -360,6 +360,10 @@
   left: 0;
 }
 
+.footer__column_content_hours {
+  margin: 0;
+}
+
 .footer__column_content_social {
   margin-left: 80px;
 }
